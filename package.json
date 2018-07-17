@@ -2,9 +2,9 @@
   "name": "zadanie-24-5",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "calculateDistancePoints.js",
   "scripts": {
-    "test": "mocha index.test.js",
+    "test": "mocha *.test.js",
     "test:watch": "onchange \"./*.js\" -- npm test"
   },
   "keywords": [],
